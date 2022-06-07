@@ -1,0 +1,6 @@
+main{
+    height: 650px;
+    background-color: hsl(0, 0%, 100%);
+    min-width: 375px;
+    min-height: 100vh;
+}

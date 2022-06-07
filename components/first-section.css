@@ -1,0 +1,63 @@
+.first-section{
+    display: flex;
+    padding: 50px 100px 20px;
+}
+
+.title{
+    
+    width: 400px;
+    height: 250px;
+    
+}
+.title h1{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    margin-right: 20px;
+    color: hsl(300, 43%, 22%);
+}
+.title p{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.4;
+    padding-top: 15px;
+    color: hsl(303, 10%, 53%);
+}
+
+.wraaper-review{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 800px;
+    margin: auto;
+}
+.reviews{
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    align-items: center;
+    width: 420px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 20px;
+    padding-left: 10px;
+    background-color: hsl(300, 24%, 96%);
+    color: hsl(300, 43%, 22%);
+}
+.reviews.-first{
+    margin-right: 100px;
+}
+.reviews.-second{
+    margin-right: 60px;
+}
+
+
+.icon-star{
+    width:17px; 
+    height:16px;
+    margin: 4px;
+}
+
+.reviews .text-reviews{
+    padding-left: 16px;
+}

@@ -1,0 +1,49 @@
+.section-feedback{
+    display: flex;
+    padding: 20px 80px 20px;
+}
+
+.card-feedback{
+    font-family: 'League Spartan', sans-serif;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: hsl(300, 43%, 22%);
+}
+
+
+.card-feedback p{
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    margin: 25px;
+}
+.card-feedback.-second{
+    margin-top: 40px;
+}
+.card-feedback.-third{
+    margin-top: 60px;
+}
+
+.perfil{
+    display: flex;
+    margin: 25px;
+}
+.perfil h2{
+    color: hsl(0, 0%, 100%);
+}
+.perfil h3{
+    color: hsl(333, 80%, 67%);
+}
+
+.title-align-block{
+    margin-left: 15px ;
+}
+
+.icon-perfil{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
